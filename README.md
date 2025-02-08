@@ -72,12 +72,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/M2hmoud2del/M2hmoud2del/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h2 align="left">Proejcts</h2>
+<h3 align="left">Proejcts</h3>
 
 ###
