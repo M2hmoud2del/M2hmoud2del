@@ -1,65 +1,208 @@
-<h2 align="left">Hi 👋! My name is Mahmoud Adel</h2>
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:141A2E,100:0D1117&height=150&section=header&text=MAHMOUD%20ADEL&fontSize=40&fontColor=58A6FF&fontAlignY=50&desc=Backend%20Engineer%20%E2%86%92%20Application%20Security%20Engineer&descAlignY=72&descColor=BC8CFF&descSize=15" width="100%"/>
 
-<h3 align="left">🚀 Computer Engineer | Cybersecurity Enthusiast</h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=1400&color=39D0FF&center=true&vCenter=true&width=580&lines=Started+in+Web+Penetration+Testing;Now+I+design+the+systems+I+used+to+break;Secure+SDLC+%C2%B7+API+Security+%C2%B7+Threat+Modeling" alt="typing" />
 
-###
+<br>
+
+<a href="mailto:mahmmoud.elkaady@gmail.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=flat-square&logo=gmail&logoColor=58A6FF" /></a>
+<a href="https://www.linkedin.com/in/mahmoud2del/"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=39D0FF" /></a>
+<a href="https://m2hmoud2del.github.io/"><img src="https://img.shields.io/badge/-Writeups-0D1117?style=flat-square&logo=readdotcv&logoColor=BC8CFF" /></a>
+<a href="https://github.com/M2hmoud2del"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&logoColor=c9d1d9" /></a>
+
+</div>
+
+<br>
+
+```console
+> whoami
+Mahmoud Adel
+
+> role
+Backend Engineer → Application Security Engineer
+
+> mission
+Build secure systems.
+Understand before defending.
+
+> currently
+Secure SDLC · API Security · Threat Modeling · Code Review
+```
+
+<br>
+
+## Journey
+
+```text
+        🔍
+    Curiosity
+        │
+        ▼
+  Web Pentesting        I broke it.
+        │
+        ▼
+  Backend Engineering    I built it.
+        │
+        ▼
+Application Security     I secure it.
+```
+
+<br>
+
+## Tree
+
+```text
+mahmoud/
+├── backend/
+│   ├── Go
+│   ├── PHP · Laravel
+│   └── Node.js · Express
+│
+├── security/
+│   ├── API Security
+│   ├── Threat Modeling
+│   ├── Code Review
+│   └── Secure SDLC
+│
+├── projects/
+│   ├── crAPI-Hardened
+│   ├── book-system-api
+│   ├── MalScope-Analyzer
+│   └── Courses-Site-With-Laravel
+│
+└── status/
+    └── building...
+```
+
+<br>
+
+## Stack
+
+**Programming**
+<br>
+<img src="https://skillicons.dev/icons?i=go,java,cpp,py,php,ts,js&theme=dark" />
+
+**Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,graphql&theme=dark" />
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css&theme=dark" />
+
+**Database**
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+
+**Infrastructure**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,kali&theme=dark" />
+
+**Security tooling**
+<br>
+`Burp Suite` `Nmap` `Wireshark` `Metasploit` `Nuclei` `SQLMap` `ffuf` `John the Ripper` `OWASP Top 10` `OWASP API Top 10`
+
+<br>
+
+## Featured Work
+
+<table width="100%">
+<tr>
+<td width="50%">
+
+```text
+╭──────────────────────────────╮
+│ 🛡  crAPI-Hardened            │
+│                                │
+│ Hardening OWASP crAPI         │
+│ release by release.           │
+│                                │
+│ Java · Spring Boot · Docker   │
+╰──────────────────────────────╯
+```
+<div align="center"><a href="https://github.com/M2hmoud2del/crAPI-Hardened"><img src="https://img.shields.io/github/stars/M2hmoud2del/crAPI-Hardened?style=flat-square&color=BC8CFF&labelColor=0D1117" /></a></div>
+
+</td>
+<td width="50%">
+
+```text
+╭──────────────────────────────╮
+│ 📦  Book System API           │
+│                                │
+│ REST API, JWT auth,           │
+│ hardened by design.           │
+│                                │
+│ Go · JWT · REST               │
+╰──────────────────────────────╯
+```
+<div align="center"><a href="https://github.com/M2hmoud2del/book-system-api"><img src="https://img.shields.io/github/stars/M2hmoud2del/book-system-api?style=flat-square&color=BC8CFF&labelColor=0D1117" /></a></div>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+```text
+╭──────────────────────────────╮
+│ 🧬  MalScope Analyzer         │
+│                                │
+│ Static + dynamic malware      │
+│ triage pipeline.               │
+│                                │
+│ Python · Security             │
+╰──────────────────────────────╯
+```
+<div align="center"><a href="https://github.com/M2hmoud2del/MalScope-Analyzer"><img src="https://img.shields.io/github/stars/M2hmoud2del/MalScope-Analyzer?style=flat-square&color=BC8CFF&labelColor=0D1117" /></a></div>
+
+</td>
+<td width="50%">
+
+```text
+╭──────────────────────────────╮
+│ 🎓  Courses Platform          │
+│                                │
+│ Laravel LMS with RBAC,        │
+│ strict permission boundaries. │
+│                                │
+│ Laravel · PHP · MySQL         │
+╰──────────────────────────────╯
+```
+<div align="center"><a href="https://github.com/M2hmoud2del/Courses-Site-With-Laravel"><img src="https://img.shields.io/github/stars/M2hmoud2del/Courses-Site-With-Laravel?style=flat-square&color=BC8CFF&labelColor=0D1117" /></a></div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M2hmoud2del&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M2hmoud2del&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=M2hmoud2del&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=c9d1d9&ring_color=39D0FF" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M2hmoud2del&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6" height="165" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=M2hmoud2del&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=39D0FF&fire=BC8CFF&currStreakLabel=58A6FF" height="165" />
+
+<br>
+
+<img src="https://raw.githubusercontent.com/M2hmoud2del/M2hmoud2del/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
 </div>
 
-###
+<br>
 
-<h3 align="left">Skills</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="49" alt="python logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="49" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="49" alt="css3 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="49" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="49" alt="php logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="49" alt="mysql logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="49" alt="cplusplus logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="49" alt="java logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="49" alt="linux logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="49" alt="bash logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="49" alt="bootstrap logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="49" alt="vscode logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="49" alt="git logo"  />
-</div>
-
-###
+```text
+Break to understand.
+Build to protect.
+Repeat.
+```
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mahmoud2del/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@mahmoud2del" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-  <a href="https://x.com/MahmoudAde98455" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://tryhackme.com/p/Mahmoud2del" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
-  </a>
+<sub>Cairo, Egypt</sub>
 </div>
 
-###
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:141A2E,100:0D1117&height=70&section=footer" width="100%"/>
